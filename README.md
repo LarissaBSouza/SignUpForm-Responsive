@@ -3,7 +3,7 @@
 ## Resumo:
 <div align="center">
     <p>
-        Esta é uma proposta de layout resposivo para formulários, apresentado pela Giovanna Moeller durante uma vídeo-aula.
+        Esta é uma proposta de layout responsivo para formulários, apresentado pela Giovanna Moeller durante uma vídeo-aula.
     </p>
 <div>
 
